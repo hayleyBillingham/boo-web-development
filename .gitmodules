@@ -1,3 +1,6 @@
 [submodule "boo-wd-javascript"]
 	path = boo-wd-javascript
 	url = https://github.com/hayleyBillingham/boo-wd-javascript.git
+[submodule "javascript"]
+	path = javascript
+	url = https://github.com/hayleyBillingham/boo-wd-javascript.git
